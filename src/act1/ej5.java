@@ -10,7 +10,8 @@ public class ej5 {
 		int gg = x.nextInt();
  double[] num = new double[gg];
  for(int i =0;i<gg;i++) {
-	 num[i]=Math.random(1)*50;
+	 num[i]= Math.random(1)*50;
+	 
  }
 	}
 
